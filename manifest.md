@@ -1,17 +1,17 @@
-## Openness to new Ideas and concepts
+## Openness to new ideas and concepts
 We need to educate the youth to be open minded and not to ignore the standpoint
 of another person just because it does not align with their world view.
 
-The have to understand that the more worldviews a person understands and can
+They have to understand that the more worldviews a person understands and can
 potentially take into consideration the better the solution they come up with is.
 
 This needs to happen because only then will we be able to listen to each other in a discussion even
-if the members views have almost nothing in common. I can also help others build upon seemingly absurd
+if the members views have almost nothing in common. It can also help others build upon seemingly absurd
 ideas which could accelerate innovation.
 
 ## The meaning of words
 The definition of a word should be split in two categories. One is the real objective meaning
-and the other is the emotional attachment that the word caries in a specific cultural cycle.
+and the other is the emotional attachment that the word carries in a specific cultural cycle.
 Any words can therefore be used in any way as long as context is observed.
 
 The use of a word should therefore not be shunned or outright banned just because it evokes some kind of emotion
