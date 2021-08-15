@@ -1,3 +1,4 @@
+# General Topics
 ## Openness to new Ideas and concepts
 We need to educate the youth to be open minded and not to ignore the standpoint
 of another person just because it does not align with their world view.
@@ -20,3 +21,30 @@ a physical thing, an emotion or something else. We then attach a meaning afterwa
 others which used the word.
 
 To conclude, not the word is the problem but the memory we associate with it.
+
+# Schooling
+To facilitate the new way of thinking one must ponder about how to educate the youth to respect each other and think openly and freely about their surroundings.
+
+## Learning
+Learning new things even outside of school should be rewarded and not punished.
+
+#### Students interested in the subject
+Currently most countries implement some form of standardization for learning progress and the testing of learned knowledge.
+This effectively cripples students who want to go beyond the curriculum because the time, which could be used for self
+improvement, is instead filled with repetitive and outdated learning methods.
+
+To solve this the teacher should be able to identify a student interested in learning more than usual. They should not treat him
+differently but give the opportunity to answer questions without considering the current curriculum.
+
+#### Students *not* interested in the subject
+The standardization coupled with coarse-grained grade systems further introduces another problem which is the hiding of the real performance of a student.
+
+A good example of this behaviour is when a student gets a nearly negative grade in a specific subject but still passes the year. Using a peer review performance test
+one would be able to assess that the student is not able to solve basic tasks with the knowledge gained from the subject but still passed the year.
+
+This leads to a worse overall performance in the workplace if the specific skill learned in the subject in question should be used.
+
+One solution would be to offer most subjects as optional. The chosen subjects should be remarked in their final report card. Of course the age at which this freedom is given
+should be considered because a student could still be in a phase where he/she is not able to make accurate judgements about their future.
+
+__Expansion needed__
