@@ -11,11 +11,11 @@ Learning new things even outside of school should be rewarded and not punished.
 
 #### Students interested in the subject
 Currently most countries implement some form of standardization for learning progress and the testing of learned knowledge.
-This effectively cripples students who want to go beyond the curriculum because the time, which could be used for self
-improvement, is instead filled with repetitive and outdated learning methods.
+This effectively cripples students who want to go beyond the curriculum because the time, which could be used for self-improvement,
+is instead filled with repetitive and outdated learning methods.
 
 __Possible Solution:__
-To solve this the teacher should be able to identify a student interested in learning more than the curriculum covers and whom is intrinsically motivated.
+To solve this the teacher should be able to identify a student interested in learning more than the curriculum covers and who is intrinsically motivated.
 This student should have the opportunity to skip classes which teach knowledge that the pupil already possesses. But this opportunity should only be given
 if he passed all tests in the subject in question.
 
@@ -48,7 +48,7 @@ should grow with new populist tactics.
 A manner of communication should be tought which encourages the following goals.
 
 #### Open-mindedness
-The youth needs to be taught to be open minded and not ignore the point of view of another person just because it does not align with their world view.
+The youth needs to be taught to be open-minded and not ignore the point of view of another person just because it does not align with their world view.
 
 They have to understand that the more "worldviews" one understands the better the solution to a given problem is.
 
@@ -57,7 +57,7 @@ having the discourse decent into uter chaos. This can help others build upon at 
 
 __Possible Solution:__
 There would need to be a change from embracing and nurturing closed-mindedness to actively shunning it.
-However this would require either an almost dictatorship like style of brainwashing because the parents are still an influential source of the
+However, this would require either an almost dictatorship like style of brainwashing because the parents are still an influential source of the
 personality traits of a student or a lot of time (multiple generations).
 
 #### Fact based discourse
@@ -68,6 +68,18 @@ One should respect another even if the position of the "opponent" is seemingly a
 
 #### Challenging of opinions
 One should not only be able to challenge other opinions but also his own.
+
+# Religion
+Religions should be abolished because they frabricate a non-factual worldview in people.
+
+The people learn not to question the authority and to "belief" instead of verifing claims and testing "truths".
+Religion also gives a false sense of hope and (like any movement) a sense of belonging which further strengthens the belief through peer-pressure.
+
+The combination of these factors results in a vicious circle.
+
+__Possible Solution:__
+It should be replaced with an infrastructure focusing on the treatment of mental health issues.
+Another thing that is important is the communication of sciences which shapes the opinions of normal people, which needs to be improved greatly.
 
 # Value
 ## Currency
