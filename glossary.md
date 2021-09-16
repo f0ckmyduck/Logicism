@@ -1,3 +1,6 @@
+---
+title: The Glossary
+---
 # General words
 ## Statement
 A statement is usually a paragraph.

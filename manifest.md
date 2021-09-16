@@ -1,3 +1,6 @@
+---
+title: The Manifest
+---
 # Schooling
 Currently a lot of schools and teachers encourage the learning of facts and facts only. This is problematic because these people
 do not learn on how to use and manipulate things using these facts they are just taught that this knowledge exists and that you should remember it

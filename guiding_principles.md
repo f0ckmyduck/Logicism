@@ -1,3 +1,6 @@
+---
+title: Guiding principles
+---
 ## Goal
 The goal of this manifest is to create a fictional form of society which
 gives all freedoms of expression which adhere to the rule set to every person.
