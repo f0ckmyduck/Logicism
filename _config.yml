@@ -12,5 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - manifest.md
+  - guiding_principles.md
+  - glossary.md
 
 theme: jekyll-theme-cayman
