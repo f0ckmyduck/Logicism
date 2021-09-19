@@ -28,6 +28,6 @@ formulating a rule.
 Errors should not be shunned nor hidden but simply corrected. This promotes an open and transparent way
 of working on a specific task.
 
-#### Do not use relative terms
-The use of words like good, bad, worse and so on should be avoided at all cost because they only convey meaning
-relative to a specific cultural circle.
+#### Avoid cultural relative terms
+The use of words like good, bad and so on in a cultural way should be avoided at all cost
+because they only convey meaning in a specific cultural circle.
