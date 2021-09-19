@@ -63,6 +63,13 @@ There would need to be a change from embracing and nurturing closed-mindedness t
 However, this would require either an almost dictatorship like style of brainwashing because the parents are still an influential source of the
 personality traits of a student or a lot of time (multiple generations).
 
+```
+It is, in fact, nothing short of a miracle that the modern methods of instruction have not yet entirely strangled the holy curiosity of inquiry;
+for this delicate little plant, aside from stimulation, stands mainly in need of freedom; without this it goes to wreck and ruin without fail.
+
+"Autobiographical Notes," in Albert Einstein: Philosopher-Scientist, Paul Schilpp, ed. (1951), pp. 17-19 © 1951 by the Library of Living Philosophers, Inc. 
+```
+
 #### Fact based discourse
 Facts should have a higher priority than emotions in solution oriented discussions.
 
