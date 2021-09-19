@@ -6,6 +6,13 @@ Currently a lot of schools and teachers encourage the learning of facts and fact
 do not learn on how to use and manipulate things using these facts they are just taught that this knowledge exists and that you should remember it
 for the next test.
 
+```
+It is, in fact, nothing short of a miracle that the modern methods of instruction have not yet entirely strangled the holy curiosity of inquiry;
+for this delicate little plant, aside from stimulation, stands mainly in need of freedom; without this it goes to wreck and ruin without fail.
+
+"Autobiographical Notes," in Albert Einstein: Philosopher-Scientist, Paul Schilpp, ed. (1951), pp. 17-19 © 1951 by the Library of Living Philosophers, Inc. 
+```
+
 To facilitate the new way of thinking one must ponder about how to educate the youth to respect each other and think openly and
 freely about their surroundings and ideas.
 
@@ -14,7 +21,7 @@ Learning new things even outside of school should be rewarded and not punished.
 
 #### Students interested in the subject
 Currently most countries implement some form of standardization for learning progress and the testing of learned knowledge.
-This effectively cripples students who want to go beyond the curriculum because the time, which could be used for self-improvement,
+This effectively cripples students who want to go beyond the curriculum because the time, which could be used for intrinsicaly motivated learning,
 is instead filled with repetitive and outdated learning methods.
 
 __Possible Solution:__
@@ -63,12 +70,6 @@ There would need to be a change from embracing and nurturing closed-mindedness t
 However, this would require either an almost dictatorship like style of brainwashing because the parents are still an influential source of the
 personality traits of a student or a lot of time (multiple generations).
 
-```
-It is, in fact, nothing short of a miracle that the modern methods of instruction have not yet entirely strangled the holy curiosity of inquiry;
-for this delicate little plant, aside from stimulation, stands mainly in need of freedom; without this it goes to wreck and ruin without fail.
-
-"Autobiographical Notes," in Albert Einstein: Philosopher-Scientist, Paul Schilpp, ed. (1951), pp. 17-19 © 1951 by the Library of Living Philosophers, Inc. 
-```
 
 #### Fact based discourse
 Facts should have a higher priority than emotions in solution oriented discussions.
@@ -80,15 +81,19 @@ One should respect another even if the position of the "opponent" is seemingly a
 One should not only be able to challenge other opinions but also his own.
 
 # Religion
-Religions should be abolished because they frabricate a non-factual worldview in people.
+Religions frabricate a non-factual worldview in people.
 
 The people learn not to question the authority and to "belief" instead of verifing claims and testing "truths".
+This improves obediance but obstructs creative thinking because being "different" is considered to be a "bad" trait.
 Religion also gives a false sense of hope and (like any movement) a sense of belonging which further strengthens the belief through peer-pressure.
 
 The combination of these factors results in a vicious circle.
 
 __Possible Solution:__
-It should be replaced with an infrastructure focusing on the treatment of mental health issues.
+Religion should not be activly suppressed because otherwise there is going to be a countermovement which could lead to conflict.
+Instead, pupils should be tought how religions operate (make money, missuse psychological phenomina to their advantage) and they should be able to decide for them selfs.
+
+Moreover, the state should also focus on the problem of mental health by building infrastructure focusing on treatment and research.
 Another thing that is important is the communication of sciences which shapes the opinions of normal people, which needs to be improved greatly.
 
 # Value
