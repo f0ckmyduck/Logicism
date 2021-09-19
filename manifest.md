@@ -45,11 +45,11 @@ accurate judgements about his/her future.
 
 __Expansion needed__
 
-
 ## Dictatorship (Tyranny, ...)
-We should educate our students about the sighs of a populist and how to deal with them. More specifically to ignore all of their claims.
+We should educate our students about the sighs of a populist and how to deal with them.
 
-This should mitigate most effects of the standard populist method.
+__Possible Solution:__
+One solution would be to simply ignore their claims. This should mitigate most effects of the standard populist method.
 
 But there is a possibility that this will develop into a "Cat and Mouse game" so the taught methods
 should grow with new populist tactics.
@@ -70,7 +70,6 @@ There would need to be a change from embracing and nurturing closed-mindedness t
 However, this would require either an almost dictatorship like style of brainwashing because the parents are still an influential source of the
 personality traits of a student or a lot of time (multiple generations).
 
-
 #### Fact based discourse
 Facts should have a higher priority than emotions in solution oriented discussions.
 
@@ -79,6 +78,19 @@ One should respect another even if the position of the "opponent" is seemingly a
 
 #### Challenging of opinions
 One should not only be able to challenge other opinions but also his own.
+
+
+# Our surroundings
+We should practice a minimalistic way of consuming.
+
+The capitalistic mindset which says that if you have the money you are allowed to consume is the cancer of modern society.
+This change was probably lead by an increasing middle class in developed countries where people where not bound by their means but only
+by their instincts.
+
+__Possible Solution:__
+The survival instinct dictates dominance. Theirfore a human following this drive will do (purchase) anything to reach this goal.
+We should theirfore teach to disrespect and deal with this at times outdated sense.
+
 
 # Religion
 Religions frabricate a non-factual worldview in people.
@@ -94,8 +106,22 @@ Religion should not be activly suppressed because otherwise there is going to be
 Instead, pupils should be tought how religions operate (make money, missuse psychological phenomina to their advantage) and they should be able to decide for them selfs.
 
 Moreover, the state should also focus on the problem of mental health by building infrastructure focusing on treatment and research.
-Another thing that is important is the communication of sciences which shapes the opinions of normal people, which needs to be improved greatly.
+Another thing that is important is the communication of sciences which shapes the opinions of normal people, which needs to be improved.
+
+
+# Arts
+## The definition of art
+Arts have become oversaturated with the capitalist mode of operation.
+What is and is not art should neither be dictated by a price tag nor a guess by any art connoisseur.
+
+__Possible Solution:__
+Instead anything can be art which incorporates creativity and effort.
+
 
 # Value
-## Currency
-__Expansion needed__
+Value is usualy split into two groups, materialistic and ideological. The problem with this handling of value is that
+no imperial messurement of personal value exists.
+
+__Possible Solution:__
+Personal value can not be used as a reliable messure because it has to come from interpretation of one person.
+Theirfore no laws should exist on the basis of ideological values.
