@@ -2,10 +2,15 @@
 title: Guiding principles
 ---
 ## Goal
-The goal of this manifest is to create a fictional form of society which
-gives all freedoms of expression which adhere to the rule set to every person.
+The goal of this manifest is to create a fictional form of society. The rules listed below should
+guide every statement made in the manifest.
 
 ## Rules
+These properties should be respected by every statement in this project.
+* Only materialistic values exist
+* Everyone is equal
+
+A Statement should only be added if the following is also valid:
 * Is logically justifiable with the current understanding of nature (science).
 * Does quantifiably more good than harm to all of humanity. (Must be provable through empirical evidence)
 
@@ -15,7 +20,7 @@ Every rule should only be a product of our current scientific understanding.
 
 #### Optimization is key
 Start from an all encompassing text and then shorten and optimize further until
-it is easily understood but still conveys the same meaning.
+it is easily understood.
 
 #### Solutions
 The most obvious solution is probably not always the optimal one.
@@ -28,6 +33,6 @@ formulating a rule.
 Errors should not be shunned nor hidden but simply corrected. This promotes an open and transparent way
 of working on a specific task.
 
-#### Avoid cultural relative terms
+#### Avoid culturaly relative terms
 The use of words like good, bad and so on in a cultural way should be avoided at all cost
 because they only convey meaning in a specific cultural circle.
