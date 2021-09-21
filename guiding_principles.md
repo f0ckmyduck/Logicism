@@ -2,8 +2,8 @@
 title: Guiding principles
 ---
 ## Goal
-The goal of this manifest is to create a fictional form of society. The rules listed below should
-guide every statement made in the manifest.
+The goal of this manifest is to create a form of society which relies not on their instincts but almost solely on logical reasoning.
+The rules listed below should guide every statement made in the manifest.
 
 ## Rules
 These properties should be respected by every statement in this project.
@@ -15,15 +15,9 @@ A Statement should only be added if the following is also valid:
 * Does quantifiably more good than harm to all of humanity. (Must be provable through empirical evidence)
 
 ## Working principles
-#### All rules should be explainable.
-Every rule should only be a product of our current scientific understanding.
-
 #### Optimization is key
 Start from an all encompassing text and then shorten and optimize further until
 it is easily understood.
-
-#### Solutions
-The most obvious solution is probably not always the optimal one.
 
 #### Consider impacts
 Think of all possible impacts (negative and positive) with every motivation you can think of before
