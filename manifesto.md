@@ -21,7 +21,7 @@ Learning new things even outside of school should be rewarded and not punished.
 
 #### Students interested
 Currently most countries implement some form of standardization for learning progress and the testing of learned knowledge.
-This effectively cripples students who want to go beyond the curriculum because the time, which could be used for intrinsicaly motivated learning,
+This effectively cripples students who want to go beyond the curriculum because the time, which could be used for intrinsically motivated learning,
 is instead filled with repetitive and outdated learning methods.
 
 __Possible Solution:__
@@ -32,7 +32,7 @@ if he passed all tests in the subject in question.
 #### Students *not* interested
 The standardization coupled with coarse-grained grade systems further introduces another problem which is the suppression of real performance of a student.
 
-A good example of this behaviour is when a student gets a nearly negative grade in a specific subject but still passes the year. Using
+A good example of this behavior is when a student gets a nearly negative grade in a specific subject but still passes the year. Using
 a peer review performance test one would be able to assess that the student is not able to solve basic tasks with the knowledge gained
 from the subject but still passed the year.
 
@@ -63,7 +63,7 @@ The youth needs to be taught to be open-minded and not ignore the point of view 
 They have to understand that the more "world views" one understands the better the solution to a given problem is.
 
 Only if this cultural shift happens will we be able to listen to each other in a discussion even if the members views have almost nothing in common without
-having the discourse descend into utter chaos. This can help others build upon at first seemingly absurd ideas which could potentialy accelerate innovation.
+having the discourse descend into utter chaos. This can help others build upon at first seemingly absurd ideas which could potentially accelerate innovation.
 
 __Possible Solution:__
 There would need to be a change from embracing and nurturing closed-mindedness to actively shunning it.
@@ -124,7 +124,7 @@ Instead anything that incorporates creativity and effort can be art.
 
 
 # Value
-Value is usualy split into two groups, materialistic and ideological. The problem with this handling of value is that
+Value is usually split into two groups, materialistic and ideological. The problem with this handling of value is that
 no empirical messurement of personal value exists.
 
 __Possible Solution:__

@@ -23,7 +23,7 @@ The final score is a number between 0 and 1 with at least 5 decimal places.
 The score is calculated as such: `<points gained> / <maximum points> = <score>`
 
 The combinational nature should counteract teacher biasing and give the student the opportunity to show
-necessary additional skills through the additive behaviour.
+necessary additional skills through the additive behavior.
 
 __Expansion needed__
 
