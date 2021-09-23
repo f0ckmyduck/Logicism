@@ -1,7 +1,7 @@
 ---
 title: The Manifesto
 ---
-# Schooling
+# Education
 Currently a lot of schools and teachers encourage the learning of facts and facts only. This is problematic because these people
 do not learn how to use and manipulate things using these facts. They are just taught that this knowledge exists and that you should remember it
 for the next test.
@@ -45,7 +45,7 @@ accurate judgements about his/her future.
 
 __Expansion needed__
 
-## Dictatorship (Tyranny, ...)
+## Populism
 We should educate our students about the sighs of a populist and how to deal with them.
 
 __Possible Solution:__
@@ -83,8 +83,9 @@ opinions but also his/her own.
 ## Problem-Solving
 The students should have to practice and improve their problem-solving skills starting from a young age.
 
+__Expansion needed__
 
-# Our surroundings
+## Our surroundings
 We should practice a minimalistic way of consuming.
 
 The capitalistic mindset which says that if you have the money you are allowed to consume is the cancer of modern society.
@@ -92,8 +93,20 @@ This change was probably led by an increasing middle class in developed countrie
 by their instincts.
 
 __Possible Solution:__
-The survival instinct dictates dominance therefore a human following this drive will do (or purchase) anything to reach this goal.
-We should therefore teach our students to disrespect and deal with this sometimes outdated sense in our modern society.
+The survival instinct dictates dominance, therefore a human following this drive will do (or purchase) anything to reach this goal.
+Because of that we should teach our students to disrespect and deal with this sometimes outdated sense in our modern society.
+
+__Expansion needed__
+
+## Egotism
+#### Wealth and Power
+We should eliminate joint goals like the drive for wealth and power by not only changing laws around it
+but also the mentality of people, which is important for the self-sustained nature of this property.
+
+This should remove the need for the traditional social hierarchy, which should counteract inequality somewhat.
+
+__Possible Solution:__
+Instead of the traditional "goals of life" students should be taught how to find their personal meaning of life.
 
 
 # Religion
@@ -122,6 +135,7 @@ What is and is not art should neither be dictated by a price tag nor a guess by 
 __Possible Solution:__
 Instead anything that incorporates creativity and effort can be art.
 
+__Expansion needed__
 
 # Value
 Value is usually split into two groups, materialistic and ideological. The problem with this handling of value is that
@@ -129,3 +143,5 @@ no empirical messurement of personal value exists.
 
 __Possible Solution:__
 Personal value can not be used as a reliable measure because it has to come from the interpretation of a person, therefore no laws should exist on the basis of ideological values.
+
+__Expansion needed__
