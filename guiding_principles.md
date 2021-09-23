@@ -2,7 +2,7 @@
 title: Guiding principles
 ---
 ## Goal
-The goal of this manifest is to create a form of society which relies not on their instincts but almost solely on logical reasoning.
+The goal of this manifesto is to create a form of society which relies not on their instincts but almost solely on logical reasoning.
 The rules listed below should guide every statement made in the manifest.
 
 ## Rules
