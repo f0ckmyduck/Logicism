@@ -1,9 +1,9 @@
 ---
-title: The Manifest
+title: The Manifesto
 ---
 # Schooling
 Currently a lot of schools and teachers encourage the learning of facts and facts only. This is problematic because these people
-do not learn on how to use and manipulate things using these facts they are just taught that this knowledge exists and that you should remember it
+do not learn how to use and manipulate things using these facts. They are just taught that this knowledge exists and that you should remember it
 for the next test.
 
 ```
@@ -55,20 +55,20 @@ But there is a possibility that this will develop into a "Cat and Mouse game" so
 should grow with new populist tactics.
 
 ## Communication
-A manner of communication should be tought which encourages the following goals.
+A manner of communication should be taught which encourages the following goals.
 
 #### Open-mindedness
 The youth needs to be taught to be open-minded and not ignore the point of view of another person just because it does not align with their world view.
 
-They have to understand that the more "worldviews" one understands the better the solution to a given problem is.
+They have to understand that the more "world views" one understands the better the solution to a given problem is.
 
 Only if this cultural shift happens will we be able to listen to each other in a discussion even if the members views have almost nothing in common without
-having the discourse decent into uter chaos. This can help others build upon at first seemingly absurd ideas which could potentialy accelerate innovation.
+having the discourse descend into utter chaos. This can help others build upon at first seemingly absurd ideas which could potentialy accelerate innovation.
 
 __Possible Solution:__
 There would need to be a change from embracing and nurturing closed-mindedness to actively shunning it.
-However, this would require either an almost dictatorship like style of brainwashing because the parents are still an influential source of the
-personality traits of a student or a lot of time (multiple generations).
+However, this would require either an almost dictatorial style of brainwashing because parents are still an influential source of the
+personality traits of a student or even the student's kids (multiple generations).
 
 #### Fact based discourse
 Facts should have a higher priority than emotions in solution oriented discussions.
@@ -84,26 +84,27 @@ One should not only be able to challenge other opinions but also his own.
 We should practice a minimalistic way of consuming.
 
 The capitalistic mindset which says that if you have the money you are allowed to consume is the cancer of modern society.
-This change was probably lead by an increasing middle class in developed countries where people where not bound by their means but only
+This change was probably led by an increasing middle class in developed countries where people were not bound by their means but only
 by their instincts.
 
 __Possible Solution:__
-The survival instinct dictates dominance. Theirfore a human following this drive will do (purchase) anything to reach this goal.
-We should theirfore teach to disrespect and deal with this at times outdated sense.
+The survival instinct dictates dominance. Therefore a human following this drive will do (or purchase) anything to reach this goal.
+We should therefore teach to disrespect and deal with this sometimes outdated sense.
 
 
 # Religion
-Religions frabricate a non-factual worldview in people.
+Religions fabricate a non-factual worldview in people.
 
-The people learn not to question the authority and to "belief" instead of verifing claims and testing "truths".
-This improves obediance but obstructs creative thinking because being "different" is considered to be a "bad" trait.
+The people learn not to question the authority and to "believe" instead of verifying claims and testing "truths".
+This improves obedience but obstructs creative thinking. Being "different" is considered to be a "bad" trait.
 Religion also gives a false sense of hope and (like any movement) a sense of belonging which further strengthens the belief through peer-pressure.
 
 The combination of these factors results in a vicious circle.
 
 __Possible Solution:__
-Religion should not be activly suppressed because otherwise there is going to be a countermovement which could lead to conflict.
-Instead, pupils should be tought how religions operate (make money, missuse psychological phenomina to their advantage) and they should be able to decide for them selfs.
+Religion should not be actively suppressed because otherwise there is going to be a countermovement which could lead to conflict.
+Instead, pupils should be taught how religions operate (make money, misuse psychological phenomena to their advantage). They need to be able to decide 
+for themselves what they choose to believe in.
 
 Moreover, the state should also focus on the problem of mental health by building infrastructure focusing on treatment and research.
 Another thing that is important is the communication of sciences which shapes the opinions of normal people, which needs to be improved.
@@ -115,13 +116,13 @@ Arts have become oversaturated with the capitalist mode of operation.
 What is and is not art should neither be dictated by a price tag nor a guess by any art connoisseur.
 
 __Possible Solution:__
-Instead anything can be art which incorporates creativity and effort.
+Instead anything that incorporates creativity and effort can be art.
 
 
 # Value
 Value is usualy split into two groups, materialistic and ideological. The problem with this handling of value is that
-no imperial messurement of personal value exists.
+no empirical messurement of personal value exists.
 
 __Possible Solution:__
-Personal value can not be used as a reliable messure because it has to come from interpretation of one person.
-Theirfore no laws should exist on the basis of ideological values.
+Personal value can not be used as a reliable measure because it has to come from the interpretation of a person.
+Therefore no laws should exist on the basis of ideological values.
