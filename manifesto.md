@@ -79,6 +79,9 @@ One should respect another even if the position of the "opponent" is seemingly a
 #### Challenging of opinions
 One should not only be able to challenge other opinions but also his own.
 
+## Problem-Solving
+The students should have to practice and improve their problem-solving skills starting from a young age.
+
 
 # Our surroundings
 We should practice a minimalistic way of consuming.
@@ -88,8 +91,8 @@ This change was probably led by an increasing middle class in developed countrie
 by their instincts.
 
 __Possible Solution:__
-The survival instinct dictates dominance. Therefore a human following this drive will do (or purchase) anything to reach this goal.
-We should therefore teach to disrespect and deal with this sometimes outdated sense.
+The survival instinct dictates dominance therefore a human following this drive will do (or purchase) anything to reach this goal.
+We should therefore teach our students to disrespect and deal with this sometimes outdated sense.
 
 
 # Religion
@@ -124,5 +127,4 @@ Value is usualy split into two groups, materialistic and ideological. The proble
 no empirical messurement of personal value exists.
 
 __Possible Solution:__
-Personal value can not be used as a reliable measure because it has to come from the interpretation of a person.
-Therefore no laws should exist on the basis of ideological values.
+Personal value can not be used as a reliable measure because it has to come from the interpretation of a person, therefore no laws should exist on the basis of ideological values.
