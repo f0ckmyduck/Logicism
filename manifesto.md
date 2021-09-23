@@ -19,7 +19,7 @@ freely about their surroundings and ideas.
 ## Learning performance
 Learning new things even outside of school should be rewarded and not punished.
 
-#### Students interested in the subject
+#### Students interested
 Currently most countries implement some form of standardization for learning progress and the testing of learned knowledge.
 This effectively cripples students who want to go beyond the curriculum because the time, which could be used for intrinsicaly motivated learning,
 is instead filled with repetitive and outdated learning methods.
@@ -29,7 +29,7 @@ To solve this the teacher should be able to identify a student interested in lea
 This student should have the opportunity to skip classes which teach knowledge that the pupil already possesses. But this opportunity should only be given
 if he passed all tests in the subject in question.
 
-#### Students *not* interested in the subject
+#### Students *not* interested
 The standardization coupled with coarse-grained grade systems further introduces another problem which is the suppression of real performance of a student.
 
 A good example of this behaviour is when a student gets a nearly negative grade in a specific subject but still passes the year. Using
@@ -77,7 +77,8 @@ Facts should have a higher priority than emotions in solution oriented discussio
 One should respect another even if the position of the "opponent" is seemingly absurd.
 
 #### Challenging of opinions
-One should not only be able to challenge other opinions but also his own.
+One should not only be able to challenge other opinions but also his/her own. Only then will he/she be able to not only change other
+opinions but also his/her own.
 
 ## Problem-Solving
 The students should have to practice and improve their problem-solving skills starting from a young age.
@@ -92,7 +93,7 @@ by their instincts.
 
 __Possible Solution:__
 The survival instinct dictates dominance therefore a human following this drive will do (or purchase) anything to reach this goal.
-We should therefore teach our students to disrespect and deal with this sometimes outdated sense.
+We should therefore teach our students to disrespect and deal with this sometimes outdated sense in our modern society.
 
 
 # Religion
@@ -106,8 +107,8 @@ The combination of these factors results in a vicious circle.
 
 __Possible Solution:__
 Religion should not be actively suppressed because otherwise there is going to be a countermovement which could lead to conflict.
-Instead, pupils should be taught how religions operate (make money, misuse psychological phenomena to their advantage). They need to be able to decide 
-for themselves what they choose to believe in.
+Instead, pupils should be taught how religions operate (make money, misuse psychological phenomena to their advantage). They need to be able to see
+for themselves that religion should have not place in an every advancing society.
 
 Moreover, the state should also focus on the problem of mental health by building infrastructure focusing on treatment and research.
 Another thing that is important is the communication of sciences which shapes the opinions of normal people, which needs to be improved.
