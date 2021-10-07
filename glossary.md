@@ -30,6 +30,10 @@ __Expansion needed__
 ## Mathematical operators
 All mathematical operators are taken from the C language.
 
+## Religion
+* The service and worship of God or the supernatural
+* A personal set or institutionalized system of religious attitudes, beliefs, and practices
+
 
 # Document specific markers
 __Expansion needed__:
