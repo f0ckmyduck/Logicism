@@ -198,7 +198,7 @@ Removing and shunning a different way of thinking relative to their religion
 improves obedience but obstructs creative thinking.
 
 #### Unprovability
-A lot of beliefs are also simply unprovable with the technology of our time. This
+A lot of beliefs are also simply unprovable with the technology of our time.
 
 
 # Arts
