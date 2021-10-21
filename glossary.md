@@ -47,3 +47,7 @@ beliefs, and practices
 __Expansion needed__:
 It marks the statement that came before it as incomplete. Either the
 explanation, reasoning or assumptions are not finished yet.
+
+__Possible solution__:
+Could be one of the solutions to the problems above. It has to atleast
+fix one of the problems.
