@@ -15,6 +15,7 @@ A Statement should only be added if the following is also valid:
 * Is logically justifiable with the current understanding of nature (science).
 * Does quantifiably more good than harm to all of humanity. (Must be provable
 through empirical evidence)
+* Has be deriveable from and provable with a logical or psychological base.
 
 ## Working principles
 #### Optimization is key

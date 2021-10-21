@@ -218,7 +218,7 @@ __Expansion needed__
 
 # Value
 Value is usually split into two groups, materialistic and ideological.
-The problem with this handling of value is that no empirical messurement 
+The problem with this handling of value is that no empirical messurement
 of personal value exists.
 
 __Possible Solution:__
