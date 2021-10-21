@@ -27,17 +27,20 @@ Learning new things even outside of school should be rewarded and not punished.
 
 ### Students interested
 Currently most countries implement some form of standardization for learning
-progress and the testing of learned knowledge. This effectively cripples
-students who want to go beyond the curriculum because the time, which could
-be used for intrinsically motivated learning, is instead filled with
-repetitive and outdated learning methods.
+progress and the testing of learned knowledge.
+
+This effectively cripples students who want to go beyond the curriculum because
+the time, which could be used for intrinsically motivated learning, has to be
+filled with repetitive and outdated learning methods instead. These outdated
+learning methods are forced uppon the students by the way questions are given.
+But they have to be given that way otherwise it would not scale.
 
 __Possible Solution:__
-To solve this the teacher should be able to identify a student interested
-in learning more than the curriculum covers and who is intrinsically motivated.
-This student should have the opportunity to skip classes which teach knowledge
-that the pupil already possesses. But this opportunity should only be given
-if he passed all tests in the subject in question.
+We could implement a system where most classes are optional and testing
+(like the final exam) is localized to a specific school.
+This would make the comparison between pupils harder but this should
+not be a problem because when choosing someone for a job the manager should consider
+relative skill and not their degree.
 
 ### Students *not* interested
 The standardization coupled with coarse-grained grade systems further
