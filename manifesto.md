@@ -37,8 +37,8 @@ attendance at a classroom if their grades are in the upper range.
 
 #### Uninterested courses
 
-In Austria there are most of the time no optional courses or classes except in
-university.
+In Austria for example there are most of the time no optional courses or
+classes except in university.
 
 This is a problem because if a class is not interesting the learning performance
 of this student will shrink. And if the performance sinks to a minimum the time
@@ -76,26 +76,27 @@ the following goals.
 
 ### Open-mindedness
 
-The youth needs to be taught to be open-minded and not ignore the point of
-view of another person just because it does not align with their world view.
+Open-mindedness is currently no priority in our education system.
 
-They have to understand that the more "world views" one understands the better
-the solution to a given problem is.
-
-Only if this cultural shift happens will we be able to listen to each other in
-a discussion even if the members views have almost nothing in common without
-having the discourse descend into utter chaos. This can help others build
-upon at first seemingly absurd ideas which could potentially accelerate innovation.
+But the youth needs to be taught to be open-minded to effectively communicate
+with each other. The receptiveness to new ideas is especially important when considering
+creative work (There it is often called inspiration).
 
 __Possible Solution:__
-There would need to be a change from embracing and nurturing closed-mindedness
-to actively shunning it. However, this would require either an almost dictatorial
-style of brainwashing because parents are still an influential source of the
-personality traits of a student or even the student's kids (multiple generations).
+This trait should also be teached in a mandatory class because inspiration is needed
+when creating new ideas (given how our brain merges concepts to something new
+we call ideas).
 
 ### Fact based discourse
 
-Facts should have a higher priority than emotions in solution oriented discussions.
+In all discussion our emotions control the way we communicate or argue.
+But this doesn't lead to valuable conclusion when the matter at hand is fact based
+and can't be described with emotions.
+
+__Possible Solution:__
+Therefore facts should have a higher priority than emotions in solution oriented
+discussions. The value of facts should be taught in a mandatory class on
+communication as well.
 
 ### Respectful discussion
 
