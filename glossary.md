@@ -27,5 +27,5 @@ It marks the statement that came before it as incomplete. Either the
 explanation, reasoning or assumptions are not finished yet.
 
 __Possible solution__:
-Could be one of the solutions to the problems above. It has to atleast
+Could be one of the solutions to the problems above. It has to at least
 fix one of the problems.

@@ -14,7 +14,7 @@ A Statement should only be added if the following is also valid:
 * Is logically justifiable with the current understanding of nature (science).
 * Does quantifiably more good than harm to all of humanity. (Must be provable
 through empirical evidence)
-* Has be deriveable from and provable with a logical or psychological base.
+* Has be derivable from and provable with a logical or psychological base.
 
 ## Working principles
 #### Optimization is key
@@ -25,7 +25,7 @@ it is easily understood.
 Think of all possible impacts (negative and positive) with every motivation
 you can think of before formulating a rule.
 
-#### It is ok to make a mistakes (pun intended)
+#### It is OK to make a mistakes (pun intended)
 Errors should not be shunned nor hidden but simply corrected. This promotes
 an open and transparent way of working on a specific task.
 

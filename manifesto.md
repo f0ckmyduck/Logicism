@@ -2,10 +2,8 @@
 title: The Manifesto
 ---
 # Education
-Currently a lot of schools and teachers encourage the learning of facts and
-facts only. This is problematic because these people do not learn how to use
-and manipulate things using these facts. They are just taught that this
-knowledge exists and that you should remember it for the next test.
+Most are taught in a way where knowledge is something that doesn't have to be understood
+but can simply be attained.
 
 ```
 It is, in fact, nothing short of a miracle that the modern methods of
@@ -32,7 +30,7 @@ progress and the testing of learned knowledge.
 This effectively cripples students who want to go beyond the curriculum because
 the time, which could be used for intrinsically motivated learning, has to be
 filled with repetitive and outdated learning methods instead. These outdated
-learning methods are forced uppon the students by the way questions are given.
+learning methods are forced upon the students by the way questions are given.
 But they have to be given that way otherwise it would not scale.
 
 __Possible Solution:__
@@ -60,7 +58,7 @@ One solution would be to offer most subjects as optional. The chosen subjects
 should be noted in their final report card. Of course
 the age at which this freedom is given should be considered because a student
 could still be in a phase where he/she is not able to make accurate
-judgements about his/her future.
+judgments about his/her future.
 
 __Expansion needed__
 
@@ -156,7 +154,7 @@ It therefore plays into the survival instinct (specifically the conservation of 
 
 __Possible Solution:__
 Religion should not be actively suppressed because otherwise there is going to
-be a countermovement which could lead to conflict. Instead, pupils should be
+be a counter-movement which could lead to conflict. Instead, pupils should be
 taught how religions operate (make money, misuse psychological phenomena to
 their advantage). They need to be able to see for themselves that religion
 should not have any place in an ever advancing society.
@@ -218,7 +216,7 @@ __Expansion needed__
 
 # Value
 Value is usually split into two groups, materialistic and ideological.
-The problem with this handling of value is that no empirical messurement
+The problem with this handling of value is that no empirical measurement
 of personal value exists.
 
 __Possible Solution:__
