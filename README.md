@@ -16,5 +16,6 @@ Some come from the following movements/concepts:
 * Critical Theory
 * Communism
 * Humanist Manifesto
+* Logicism (math)
 
 Of course criticism or even improvements are always welcome!
