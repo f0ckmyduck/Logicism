@@ -7,7 +7,8 @@ title: Guiding principles
 ## Goal
 
 The goal of this manifesto is to create a form of society which relies not
-on their instincts but almost solely on logical reasoning.
+on their instincts but almost solely on logical reasoning. The primary purpose
+of this state and mindset is the progress of the human race.
 
 The idea is that if you have a basic understanding of most scientific fields
 you will be able to prove or reconstruct every rule or view in this manifesto
