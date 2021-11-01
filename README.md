@@ -1,3 +1,5 @@
+# Logicism
+
 ## Structure
 
 [The guiding principles](guiding_principles.md) show basic rules and guidelines
