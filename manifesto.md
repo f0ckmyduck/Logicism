@@ -18,6 +18,11 @@ Paul Schilpp, ed. (1951), pp. 17-19 © 1951 by the Library of
 Living Philosophers, Inc.
 ```
 
+The goal of this paragraph about education is to give students the opportunity to
+learn intrinsically and in a fun way about topics that they want without the added bloat.
+The other intent is to give them the power to transmit or discuss their knowledge with
+others in a purely knowledge based discourse.
+
 ## Learning performance
 
 Learning in a different way or at a different pace is currently punished
@@ -41,7 +46,7 @@ In Austria for example there are most of the time no optional courses or
 classes except in university.
 
 This is a problem because if a class is not interesting the learning performance
-of this student will shrink. And if the performance sinks to a minimum the time
+of this student will go down. And if the performance sinks to a minimum the time
 spent in class is effectively wasted.
 
 __Possible Solution:__
@@ -56,7 +61,7 @@ subject is currently up to the teacher.
 __Possible Solution:__
 Instead this should be delivered in a small and mandatory lesson.
 
-## Populism
+## Politics and Populism
 
 Most schools do not currently include any lessons on politics. Therefore
 their common tactics are not considered to be common knowledge.
@@ -64,7 +69,7 @@ their common tactics are not considered to be common knowledge.
 __Possible Solution:__
 We should educate our students about the basic principals of politics. Not
 country specific expertise (Like which party does what) but a psychological
-view (Like how one is manipulated).
+view (Like how one is manipulated into voting).
 
 ## Communication
 
@@ -73,6 +78,11 @@ There is currently also very little education about proper communication.
 __Possible Solution:__
 To solve this a manner of communication should be taught which encourages
 the following goals.
+
+The end goal of this class on communication is that every member should
+have the mental maturity and communication techniques to come to either
+a compromise, consensus or best case a common conclusion in a fact based
+discussion.
 
 ### Open-mindedness
 
@@ -100,13 +110,33 @@ communication as well.
 
 ### Respectful discussion
 
-One should respect another even if the position of the "opponent" is seemingly absurd.
+Mutual respect is an important aspect of communication. Without respect discourse
+is in most cases not even attempted.
 
-### Challenging of opinions
+Therefore any student should have the mental maturity to respect another even
+if the position of the "opponent" is seemingly absurd.
 
-One should not only be able to challenge other opinions but also his/her own.
-Only then will he/she be able to not only change other opinions but also his/her
-own.
+__Possible Solution:__
+This could be achieved within a mandatory class in which the teacher acts as an
+extremist and students could engage in a discussion about the topic at hand.
+
+#### Mistakes
+
+Mistakes are one of the most shunned aspects of our current society.
+
+Mean spirited critic should have no place in a fact based discussion because it
+devalues the other side.
+
+### Challenging of opinions and honesty
+
+Opinions are valued (some are worth more than others) in our society which hinders
+an equal discussion (where everyone is equal).
+
+Some are so highly ranked that no one dares to challenge them.
+These could in part be traced back to either the authority bias or the courtesy bias.
+
+Therefore one should not only be able to challenge other opinions but also his/her own
+while also being honest about them.
 
 ## Problem-Solving
 
@@ -117,18 +147,15 @@ __Expansion needed__
 
 ## Our surroundings
 
-We should practice a minimalistic way of consuming.
+Our current way of mass consumption is a direct product of our "survival instinct".
+But capitalism does not limit a lot of the middle class any more. The limit is now
+for consumption now lies with the consumer not with their means.
 
-The capitalistic mindset which says that if you have the money you are allowed
-to consume is the cancer of modern society. This change was probably led
-by an increasing middle class in developed countries where people were not
-bound by their means but only by their instincts.
+But they still retain the old reference of wealth (How hard it was to obtain a house).
+So status symbols and other worthless spending is preferred to "show off" their
+position in life.
 
-__Possible Solution:__
-The survival instinct dictates dominance, therefore a human following this
-drive will do (or purchase) anything to reach this goal. Because of that
-we should teach our students to disrespect and deal with this sometimes
-outdated sense in our modern society.
+To solve this we should practice a minimalistic way of consuming.
 
 __Expansion needed__
 
@@ -152,27 +179,23 @@ find their personal meaning of life.
 ## Belief
 
 Religions fabricate a non-factual worldview in people.
-This can happen because the barrier of entry is not understanding unbiased
-proof but just belief. Belief is also way easier because one doesn't have to
-think (or use up resources to prove something) but merely follow and repeat.
-It therefore plays into the survival instinct (specifically the conservation of energy).
+This worldview can easily spread like a virus because the barrier of entry
+is so low. One does not have to understand unbiased proof but just belief what
+someone claimed.
 
 __Possible Solution:__
 Religion should not be actively suppressed because otherwise there is going to
-be a counter-movement which could lead to conflict. Instead, pupils should be
-taught how religions operate (make money, misuse psychological phenomena to
-their advantage). They need to be able to see for themselves that religion
-should not have any place in an ever advancing society.
+be a counter-movement which could lead to conflict.
+
+Instead, pupils should be taught how religions operate (make money, misuse
+psychological phenomena to their advantage). They need to be able to see for
+themselves that religions should not have any place in an ever advancing society.
 
 Moreover, the state should also focus on the problem of mental health by
-building infrastructure focusing on treatment and research. Another thing
-that is important is the communication of sciences which shapes the opinions
-of normal people, which needs to be improved.
+building infrastructure focusing on treatment and research.
 
-__Possible Solution:__
-Disproving a hole religion will probably stay impossible for ever because
-we use religions to describe something we currently know nothing about.
-And there will always be some unexplainable phenomena.
+Another importance is the communication of sciences which shapes the opinions
+of normal people, which needs to be improved greatly.
 
 ## Institutionalized religions & Cults
 
