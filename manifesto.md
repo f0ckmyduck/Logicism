@@ -37,6 +37,7 @@ are given. The handling of these corner-cases also greatly depends on the
 personality of a teacher and the student-teacher relationship.
 
 __Possible Solution:__
+
 Students should have the option to only take the exam but not to have mandatory
 attendance at a classroom if their grades are in the upper range.
 
@@ -50,6 +51,7 @@ of this student will go down. And if the performance sinks to a minimum the time
 spent in class is effectively wasted.
 
 __Possible Solution:__
+
 One solution would be to offer most subjects as optional. The chosen subjects
 should be noted in their final report card.
 
@@ -59,6 +61,7 @@ should be noted in their final report card.
 subject is currently up to the teacher.
 
 __Possible Solution:__
+
 Instead this should be delivered in a small and mandatory lesson.
 
 ## Politics and Populism
@@ -67,6 +70,7 @@ Instead this should be delivered in a small and mandatory lesson.
 their common tactics are not considered to be common knowledge.
 
 __Possible Solution:__
+
 We should educate our students about the basic principals of politics. Not
 country specific expertise (Like which party does what) but a psychological
 view (Like how one is manipulated into voting).
@@ -76,6 +80,7 @@ view (Like how one is manipulated into voting).
 * There is currently also very little education about proper communication.
 
 __Possible Solution:__
+
 To solve this a manner of communication should be taught which encourages
 the following goals.
 
@@ -93,6 +98,7 @@ with each other. The receptiveness to new ideas is especially important when con
 creative work (There it is often called inspiration).
 
 __Possible Solution:__
+
 This trait should also be teached in a mandatory class because inspiration is needed
 when creating new ideas (given how our brain merges concepts to something new
 we call ideas).
@@ -105,6 +111,7 @@ But this doesn't lead to valuable conclusion when the matter at hand is fact bas
 and can't be described with emotions.
 
 __Possible Solution:__
+
 Therefore facts should have a higher priority than emotions in solution oriented
 discussions. The value of facts should be taught in a mandatory class on
 communication as well.
@@ -118,6 +125,7 @@ Therefore any student should have the mental maturity to respect another even
 if the position of the "opponent" is seemingly absurd.
 
 __Possible Solution:__
+
 This could be achieved within a mandatory class in which the teacher acts as an
 extremist and students could engage in a discussion about the topic at hand.
 
@@ -175,6 +183,7 @@ This should remove the need for the traditional social hierarchy, which
 should counteract inequality somewhat.
 
 __Possible Solution:__
+
 Instead of the traditional "goals of life" students should be taught how to
 find their personal meaning of life.
 
@@ -189,6 +198,7 @@ is so low. One does not have to understand unbiased proof but just belief what
 someone claimed.
 
 __Possible Solution:__
+
 Religion should not be actively suppressed because otherwise there is going to
 be a counter-movement which could lead to conflict.
 
@@ -208,6 +218,7 @@ of normal people, which needs to be improved greatly.
 phenomena to their advantage.
 
 __Possible Solution:__
+
 The removal of the belief system will probably mark the end of any
 institutionalized belief.
 
@@ -255,6 +266,7 @@ in which they have the opportunity to vote. Therefore leaving room for
 creating a degraded solution.
 
 __Possible Solution:__
+
 The solution could be a mix between direct and indirect democracy and a governing body
 consisting of scientific experts. Both sides should have a weighted say in every discussion.
 
@@ -284,6 +296,7 @@ What is and is not art should neither be dictated by a price tag nor a guess
 by any art connoisseur.
 
 __Possible Solution:__
+
 Instead anything that incorporates creativity and effort can be art. But art
 should not have any value by its self but rather be valued only by the costs
 which are needed to produce it.
@@ -298,6 +311,7 @@ The problem with this handling of value is that no empirical measurement
 of personal value exists.
 
 __Possible Solution:__
+
 Personal value can not be used as a reliable measure because it has to come
 from the interpretation of a person, therefore no laws should exist on the
 basis of ideological values.
