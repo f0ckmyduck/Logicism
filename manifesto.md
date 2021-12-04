@@ -4,7 +4,7 @@ title: The Manifesto
 
 # Education
 
-Most are taught in a way where knowledge is something that doesn't have to be understood
+* Most are taught in a way where knowledge is something that doesn't have to be understood
 but can simply be attained.
 
 ```
@@ -25,14 +25,14 @@ others in a purely knowledge based discourse.
 
 ## Learning performance
 
-Learning in a different way or at a different pace is currently punished
+* Learning in a different way or at a different pace is currently punished
 passively by the move to standardized education systems.
 
 ### Differing cases
 
 #### Faster learning pace
 
-Students with a faster learning pace are often underwhelmed by the tasks they
+* Students with a faster learning pace are often underwhelmed by the tasks they
 are given. The handling of these corner-cases also greatly depends on the
 personality of a teacher and the student-teacher relationship.
 
@@ -42,7 +42,7 @@ attendance at a classroom if their grades are in the upper range.
 
 #### Uninterested courses
 
-In Austria for example there are most of the time no optional courses or
+* In Austria for example there are most of the time no optional courses or
 classes except in university.
 
 This is a problem because if a class is not interesting the learning performance
@@ -55,7 +55,7 @@ should be noted in their final report card.
 
 ### Learning how to learn
 
-Showing students some ways to attain motivation for the learning of a specific
+* Showing students some ways to attain motivation for the learning of a specific
 subject is currently up to the teacher.
 
 __Possible Solution:__
@@ -63,7 +63,7 @@ Instead this should be delivered in a small and mandatory lesson.
 
 ## Politics and Populism
 
-Most schools do not currently include any lessons on politics. Therefore
+* Most schools do not currently include any lessons on politics. Therefore
 their common tactics are not considered to be common knowledge.
 
 __Possible Solution:__
@@ -73,7 +73,7 @@ view (Like how one is manipulated into voting).
 
 ## Communication
 
-There is currently also very little education about proper communication.
+* There is currently also very little education about proper communication.
 
 __Possible Solution:__
 To solve this a manner of communication should be taught which encourages
@@ -86,7 +86,7 @@ discussion.
 
 ### Open-mindedness
 
-Open-mindedness is currently no priority in our education system.
+* Open-mindedness is currently no priority in our education system.
 
 But the youth needs to be taught to be open-minded to effectively communicate
 with each other. The receptiveness to new ideas is especially important when considering
@@ -99,7 +99,8 @@ we call ideas).
 
 ### Fact based discourse
 
-In all discussion our emotions control the way we communicate or argue.
+* In all discussion our emotions control the way we communicate or argue.
+
 But this doesn't lead to valuable conclusion when the matter at hand is fact based
 and can't be described with emotions.
 
@@ -110,7 +111,7 @@ communication as well.
 
 ### Respectful discussion
 
-Mutual respect is an important aspect of communication. Without respect discourse
+* Mutual respect is an important aspect of communication. Without respect discourse
 is in most cases not even attempted.
 
 Therefore any student should have the mental maturity to respect another even
@@ -122,14 +123,14 @@ extremist and students could engage in a discussion about the topic at hand.
 
 #### Mistakes
 
-Mistakes are one of the most shunned aspects of our current society.
+* Mistakes are one of the most shunned aspects of our current society.
 
 Mean spirited critic should have no place in a fact based discussion because it
 devalues the other side.
 
 ### Challenging of opinions and honesty
 
-Opinions are valued (some are worth more than others) in our society which hinders
+* Opinions are valued (some are worth more than others) in our society which hinders
 an equal discussion (where everyone is equal).
 
 Some are so highly ranked that no one dares to challenge them.
@@ -147,7 +148,7 @@ __Expansion needed__
 
 ## Our surroundings
 
-Our current way of mass consumption is a direct product of our "survival instinct".
+* Our current way of mass consumption is a direct product of our "survival instinct".
 But capitalism does not limit a lot of the middle class any more. The limit is now
 for consumption now lies with the consumer not with their means.
 
@@ -162,6 +163,9 @@ __Expansion needed__
 ## Egotism
 
 ### Wealth and Power
+
+* Wealth and power are two of the most uniformly accepted goals of any human
+society and individual in a first world country.
 
 We should eliminate joint goals like the drive for wealth and power by not
 only changing laws around it but also the mentality of people, which is
@@ -178,7 +182,8 @@ find their personal meaning of life.
 
 ## Belief
 
-Religions fabricate a non-factual worldview in people.
+* Religions fabricate a non-factual worldview in people.
+
 This worldview can easily spread like a virus because the barrier of entry
 is so low. One does not have to understand unbiased proof but just belief what
 someone claimed.
@@ -194,12 +199,12 @@ themselves that religions should not have any place in an ever advancing society
 Moreover, the state should also focus on the problem of mental health by
 building infrastructure focusing on treatment and research.
 
-Another importance is the communication of sciences which shapes the opinions
+Another thing of importance is the communication of sciences which shapes the opinions
 of normal people, which needs to be improved greatly.
 
 ## Institutionalized religions & Cults
 
-Organized religions use their belief system combined with psychological
+* Organized religions use their belief system combined with psychological
 phenomena to their advantage.
 
 __Possible Solution:__
@@ -208,38 +213,40 @@ institutionalized belief.
 
 ### Keeping believers in
 
-All of these institutions use a vicious cycle with one or more components
+* All of these institutions use a vicious cycle with one or more components
 to keep their members in check. Some of these elements are listed here.
 
 #### Belief vs. Proof
 
-The people learn from preachers (or other higher ups) not to question the
+* The people learn from preachers (or other higher ups) not to question the
 authority and to "believe" instead of verifying claims and testing "truths"
 for them self's. The enforcement of this concept is also propagated down to
 other members at lower levels of the hierarchy through peer pressure.
 
 #### Simplicity
 
-These types of religions give a false sense of hope through giving simple
+* These types of religions give a false sense of hope through giving simple
 answers to complex questions.
 
 A good example is the life after death.
 
 #### Different thinking
 
-Thinking differently is considered by most members of these groups to be a bad trait.
+* Thinking differently is considered by most members of these groups to be a bad trait.
 Removing and shunning a different way of thinking relative to their religion
 improves obedience but obstructs creative thinking.
 
 #### Unprovability
 
-A lot of beliefs are also simply unprovable with the technology of our time.
+* A lot of beliefs are also simply unprovable with the technology of our time.
 
-# Arts
+# State
 
-## The definition of art
+## Arts
 
-Arts have become oversaturated with the capitalist mode of operation.
+### The definition of art
+
+* Arts have become oversaturated with the capitalist mode of operation.
 What is and is not art should neither be dictated by a price tag nor a guess
 by any art connoisseur.
 
@@ -248,9 +255,10 @@ Instead anything that incorporates creativity and effort can be art.
 
 __Expansion needed__
 
-# Value
+## Value
 
-Value is usually split into two groups, materialistic and ideological.
+* Value is usually split into two groups, materialistic and ideological.
+
 The problem with this handling of value is that no empirical measurement
 of personal value exists.
 

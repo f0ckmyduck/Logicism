@@ -6,7 +6,21 @@ title: The Glossary
 
 ## Statement
 
-A statement is usually a paragraph.
+A statement is usually a paragraph. It is usually in the following format.
+
+```
+# <Titel>
+
+* <Claim>
+
+<Impact>
+
+__Possible solution__:
+<Solution1>
+
+__Possible solution__:
+<Solution2>
+```
 
 ## Peer Review Performance Test
 
