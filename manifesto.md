@@ -242,7 +242,40 @@ improves obedience but obstructs creative thinking.
 
 # State
 
+* Currently a lot of first world states implement some for of direct or indirect
+democracy.
+
+### Polarization 
+
+* The problem is that decisions which should be made with analytical analysis
+are instead politicized which creates further divide between people.
+
+This creates another problem because most people are not experts in the matter
+in which they have the opportunity to vote. Therefore leaving room for
+creating a degraded solution.
+
+__Possible Solution:__
+The solution could be a mix between direct and indirect democracy and a governing body
+consisting of scientific experts. Both sides should have a weighted say in every discussion.
+
+The Government is made up of two governing bodies. 
+
+The political side which is voted and then repeatedly asks the public for their opinions
+on emotional matters. This side should have more say in emotional matters (70%).
+
+The other side which consists of a few experts per scientific research field
+is voted by all scholars in these specific fields (So a quantum physics scholar votes for
+others with the same research field). This part should also periodically ask all scholars
+on their opinions. This side should have more say in logical matters (70%).
+
+The decision if a matter is emotional or logical 
+__Expansion needed__
+
+Of course transparency in all government processes should be of utmost importance.
+
 ## Arts
+
+* Arts are one of the most important aspects of any society.
 
 ### The definition of art
 
@@ -251,7 +284,9 @@ What is and is not art should neither be dictated by a price tag nor a guess
 by any art connoisseur.
 
 __Possible Solution:__
-Instead anything that incorporates creativity and effort can be art.
+Instead anything that incorporates creativity and effort can be art. But art
+should not have any value by its self but rather be valued only by the costs
+which are needed to produce it.
 
 __Expansion needed__
 
