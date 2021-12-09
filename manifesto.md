@@ -280,8 +280,8 @@ is voted by all scholars in these specific fields (So a quantum physics scholar 
 others with the same research field). This part should also periodically ask all scholars
 on their opinions. This side should have more say in logical matters (70%).
 
-The decision if a matter is emotional or logical 
-__Expansion needed__
+The decision if a matter is logical or emotional is made by sides with equal ranking.
+If a topic can be quantized it should be logical and all else are emotional.
 
 Of course transparency in all government processes should be of utmost importance.
 
