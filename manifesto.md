@@ -305,6 +305,8 @@ __Expansion needed__
 
 ## Value
 
+### Types
+
 * Value is usually split into two groups, materialistic and ideological.
 
 The problem with this handling of value is that no empirical measurement
