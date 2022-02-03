@@ -55,6 +55,21 @@ __Possible Solution:__
 One solution would be to offer most subjects as optional. The chosen subjects
 should be noted in their final report card.
 
+##### Grating teacher performance
+
+* There is, besides individual feedback, no possible feedback mechanism for teacher
+performance.
+
+The teacher is therefore not incentivised to increase performance and can teach however
+they want. Most of the time the teacher is also an authoritative figure who's opinion is
+not often questioned because of their social status.
+
+__Possible Solution:__
+
+Teacher performance could be measured by the number of attendees relative to other classes.
+There should also be an anonymous feedback mechanism (online poll) to get around the social
+status issue.
+
 ### Learning how to learn
 
 * Showing students some ways to attain motivation for the learning of a specific
