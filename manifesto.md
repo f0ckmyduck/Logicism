@@ -30,17 +30,6 @@ passively by the move to standardized education systems.
 
 ### Differing cases
 
-#### Faster learning pace
-
-* Students with a faster learning pace are often underwhelmed by the tasks they
-are given. The handling of these corner-cases also greatly depends on the
-personality of a teacher and the student-teacher relationship.
-
-__Possible Solution:__
-
-Students should have the option to only take the exam but not to have mandatory
-attendance at a classroom if their grades are in the upper range.
-
 #### Uninterested courses
 
 * In Austria for example there are most of the time no optional courses or
@@ -62,7 +51,7 @@ performance.
 
 The teacher is therefore not incentivised to increase performance and can teach however
 they want. Most of the time the teacher is also an authoritative figure who's opinion is
-not often questioned because of their social status.
+not often questioned because of their social status which leads to even less critic.
 
 __Possible Solution:__
 
@@ -75,9 +64,18 @@ status issue.
 * Showing students some ways to attain motivation for the learning of a specific
 subject is currently up to the teacher.
 
+This represents a problem because without motivation, self improvement is impossible.
+
 __Possible Solution:__
 
-Instead this should be delivered in a small and mandatory lesson.
+If intrinsic motivation is more efficient then we should strive to motivate pupil through
+positive emotions which are had in connection with the subject. This will give the task
+a better picture in the mind of students which will therefore be the start of the
+intrinsic motivational cycle.
+
+This fact should be taught in school and used as a training technique at the same time
+so that trying to get around this teaching-mechanism does not reward the hacker with
+a feeling of being superior which would discourage anyone from trying.
 
 ## Politics and Populism
 
@@ -97,12 +95,10 @@ view (Like how one is manipulated into voting).
 __Possible Solution:__
 
 To solve this a manner of communication should be taught which encourages
-the following goals.
-
-The end goal of this class on communication is that every member should
-have the mental maturity and communication techniques to come to either
-a compromise, consensus or best case a common conclusion in a fact based
-discussion.
+discussion techniques which have the end goal of this class on communication
+is that every member should have the mental maturity and communication techniques
+to come to either a compromise, consensus or best case a common conclusion in a
+fact based discussion.
 
 ### Open-mindedness
 
@@ -129,7 +125,7 @@ __Possible Solution:__
 
 Therefore facts should have a higher priority than emotions in solution oriented
 discussions. The value of facts should be taught in a mandatory class on
-communication as well.
+communication.
 
 ### Respectful discussion
 
@@ -150,17 +146,6 @@ extremist and students could engage in a discussion about the topic at hand.
 
 Mean spirited critic should have no place in a fact based discussion because it
 devalues the other side.
-
-### Challenging of opinions and honesty
-
-* Opinions are valued (some are worth more than others) in our society which hinders
-an equal discussion (where everyone is equal).
-
-Some are so highly ranked that no one dares to challenge them.
-These could in part be traced back to either the authority bias or the courtesy bias.
-
-Therefore one should not only be able to challenge other opinions but also his/her own
-while also being honest about them.
 
 ## Problem-Solving
 
@@ -273,7 +258,7 @@ democracy.
 
 ### Polarization 
 
-* The problem is that decisions which should be made with analytical analysis
+* The problem is that decisions which should be made with numerical analysis
 are instead politicized which creates further divide between people.
 
 This creates another problem because most people are not experts in the matter
@@ -298,7 +283,28 @@ on their opinions. This side should have more say in logical matters (70%).
 The decision if a matter is logical or emotional is made by sides with equal ranking.
 If a topic can be quantized it should be logical and all else are emotional.
 
-Of course transparency in all government processes should be of utmost importance.
+### Transparency
+
+* At the time of writing this, most governments implement some form of transparency. 
+Be it through recorded congress meetings or other means.
+
+__Expansion needed__
+
+# Media
+
+__Expansion needed__
+
+## Ads
+
+* At the moment adverts use emotions and facts to convince a consumer to buy.
+
+This leaves multiple avenues open for manipulation because most consumers
+are not aware of the intentional use of specific languages (z.b. body language, background music, ...)
+to associate a product with an emotion.
+
+__Possible Solution:__
+
+All ads in this country are only able to use facts to represent their products.
 
 ## Arts
 
@@ -317,6 +323,19 @@ should not have any value by its self but rather be valued only by the costs
 which are needed to produce it.
 
 __Expansion needed__
+
+#### The value of ideas
+
+* Ideas are made exclusive through society. Patents and Copyright just
+to name a few.
+
+This can lead to huge monopolies which are centered around only a few
+ideas of which they dominate the market.
+
+__Possible Solution:__
+Ideas should only be protectable through keeping them a secret. Which is the
+most basic form of exclusivity but one that will probably never be completely
+eradicated.
 
 ## Value
 
