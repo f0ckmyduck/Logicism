@@ -25,7 +25,7 @@ others in a purely knowledge based discourse.
 
 ## Learning performance
 
-* Learning in a different way or at a different pace is currently punished
+* Learning differently or at a different pace is currently punished
 passively by the move to standardized education systems.
 
 ### Differing cases
@@ -49,8 +49,8 @@ should be noted in their final report card.
 * There is, besides individual feedback, no possible feedback mechanism for teacher
 performance.
 
-The teacher is therefore not incentivised to increase performance and can teach however
-they want. Most of the time the teacher is also an authoritative figure who's opinion is
+The teacher is therefore not incentivized to increase performance and can teach however
+they want. Most of the time the teacher is also an authoritative figure whose opinion is
 not often questioned because of their social status which leads to even less critic.
 
 __Possible Solution:__
@@ -64,11 +64,11 @@ status issue.
 * Showing students some ways to attain motivation for the learning of a specific
 subject is currently up to the teacher.
 
-This represents a problem because without motivation, self improvement is impossible.
+This represents a problem because without motivation, self-improvement is impossible.
 
 __Possible Solution:__
 
-If intrinsic motivation is more efficient then we should strive to motivate pupil through
+If intrinsic motivation is more efficient than we should strive to motivate pupil through
 positive emotions which are had in connection with the subject. This will give the task
 a better picture in the mind of students which will therefore be the start of the
 intrinsic motivational cycle.
@@ -79,12 +79,12 @@ a feeling of being superior which would discourage anyone from trying.
 
 ## Politics and Populism
 
-* Most schools do not currently include any lessons on politics. Therefore
+* Most schools do not currently include any lessons on politics. Therefore,
 their common tactics are not considered to be common knowledge.
 
 __Possible Solution:__
 
-We should educate our students about the basic principals of politics. Not
+We should educate our students about the basic principles of politics. Not
 country specific expertise (Like which party does what) but a psychological
 view (Like how one is manipulated into voting).
 
@@ -110,7 +110,7 @@ creative work (There it is often called inspiration).
 
 __Possible Solution:__
 
-This trait should also be teached in a mandatory class because inspiration is needed
+This trait should also be taught in a mandatory class because inspiration is needed
 when creating new ideas (given how our brain merges concepts to something new
 we call ideas).
 
@@ -123,7 +123,7 @@ and can't be described with emotions.
 
 __Possible Solution:__
 
-Therefore facts should have a higher priority than emotions in solution oriented
+Therefore, facts should have a higher priority than emotions in solution oriented
 discussions. The value of facts should be taught in a mandatory class on
 communication.
 
@@ -132,7 +132,7 @@ communication.
 * Mutual respect is an important aspect of communication. Without respect discourse
 is in most cases not even attempted.
 
-Therefore any student should have the mental maturity to respect another even
+Therefore, any student should have the mental maturity to respect another even
 if the position of the "opponent" is seemingly absurd.
 
 __Possible Solution:__
@@ -157,7 +157,7 @@ __Expansion needed__
 ## Our surroundings
 
 * Our current way of mass consumption is a direct product of our "survival instinct".
-But capitalism does not limit a lot of the middle class any more. The limit is now
+But capitalism does not limit a lot of the middle class anymore. The limit is now
 for consumption now lies with the consumer not with their means.
 
 But they still retain the old reference of wealth (How hard it was to obtain a house).
@@ -186,6 +186,9 @@ __Possible Solution:__
 
 Instead of the traditional "goals of life" students should be taught how to
 find their personal meaning of life.
+
+
+
 
 # Organized religion & Belief
 
@@ -251,19 +254,22 @@ improves obedience but obstructs creative thinking.
 
 * A lot of beliefs are also simply unprovable with the technology of our time.
 
-# State
 
-* Currently a lot of first world states implement some for of direct or indirect
+
+
+# State & Law
+
+* Currently, a lot of first world states implement some for of direct or indirect
 democracy.
 
-### Polarization 
+## Polarization 
 
 * The problem is that decisions which should be made with numerical analysis
 are instead politicized which creates further divide between people.
 
 This creates another problem because most people are not experts in the matter
-in which they have the opportunity to vote. Therefore leaving room for
-creating a degraded solution.
+in which they have the opportunity to vote, therefore leaving room for the
+creation of a degraded solution.
 
 __Possible Solution:__
 
@@ -283,14 +289,28 @@ on their opinions. This side should have more say in logical matters (70%).
 The decision if a matter is logical or emotional is made by sides with equal ranking.
 If a topic can be quantized it should be logical and all else are emotional.
 
-### Transparency
+## Transparency
 
 * At the time of writing this, most governments implement some form of transparency. 
 Be it through recorded congress meetings or other means.
 
 __Expansion needed__
 
-# Media
+## Companies
+
+### Taxation
+
+* Most tax laws are pretty complicated with multiple taxes applying to different metrics
+of a company.
+
+The problem with multiple taxation methods all applied to a single company is that 
+it gets complicated to test all corner-cases, which allows more room for potential loopholes.
+
+__Possible Solution:__ 
+A single tax which rises exponentially with company size. This would prevent any company from
+reaching the state of a monopoly and would help small startups with a tax reduction.
+
+The size of a company should probably be a combined factor of workforce, equity and cash throughput.
 
 __Expansion needed__
 
@@ -305,37 +325,6 @@ to associate a product with an emotion.
 __Possible Solution:__
 
 All ads in this country are only able to use facts to represent their products.
-
-## Arts
-
-* Arts are one of the most important aspects of any society.
-
-### The definition of art
-
-* Arts have become oversaturated with the capitalist mode of operation.
-What is and is not art should neither be dictated by a price tag nor a guess
-by any art connoisseur.
-
-__Possible Solution:__
-
-Instead anything that incorporates creativity and effort can be art. But art
-should not have any value by its self but rather be valued only by the costs
-which are needed to produce it.
-
-__Expansion needed__
-
-#### The value of ideas
-
-* Ideas are made exclusive through society. Patents and Copyright just
-to name a few.
-
-This can lead to huge monopolies which are centered around only a few
-ideas of which they dominate the market.
-
-__Possible Solution:__
-Ideas should only be protectable through keeping them a secret. Which is the
-most basic form of exclusivity but one that will probably never be completely
-eradicated.
 
 ## Value
 
@@ -353,3 +342,41 @@ from the interpretation of a person, therefore no laws should exist on the
 basis of ideological values.
 
 __Expansion needed__
+
+
+
+
+# Culture & Art
+
+__Expansion needed__
+
+## Arts
+
+* Art is one of the most important aspects of any society.
+
+### The definition of art
+
+* Arts have become oversaturated with the capitalist mode of operation.
+What is and is not art should neither be dictated by a price tag nor a guess
+by any art connoisseur.
+
+__Possible Solution:__
+
+Instead, anything that incorporates creativity and effort can be art. But art
+should not have any value by its self but rather be valued only by the costs
+which are needed to produce it.
+
+__Expansion needed__
+
+#### The value of ideas
+
+* Ideas are made exclusive through society. Patents and Copyright just
+to name a few.
+
+This can lead to huge monopolies which are centered around only a few
+ideas of which they dominate the market.
+
+__Possible Solution:__
+Ideas should only be protectable through keeping them a secret. Which is the
+most basic form of exclusivity but one that will probably never be completely
+eradicated.
