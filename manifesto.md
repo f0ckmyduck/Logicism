@@ -185,7 +185,9 @@ should counteract inequality somewhat.
 __Possible Solution:__
 
 Instead of the traditional "goals of life" students should be taught how to
-find their personal meaning of life.
+find their personal meaning of life. But this would probably not work for any
+of the students which are not as well of as others because they have to worry
+about getting by.
 
 
 
