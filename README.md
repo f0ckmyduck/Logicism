@@ -1,14 +1,32 @@
 # Logicism
 
+## Goal
+
+The goal of this manifesto is to create a form of society which forms people living
+in it into freethinking and rational human beings who work together. Sapere aude!
+The primary purpose of this state and mindset is the progress of the human race.
+
+The idea is that if you have a basic understanding of most scientific fields
+and good logic reasoning, that you will be able to prove or reconstruct every
+rule in this manifesto.
+
+## Rules
+
+The rules listed below should guide every statement made in this manifesto.
+* Only materialistic values exist
+* Everyone is equal
+
+A Statement should only be added if the following is also valid:
+* Is logically justifiable with the current understanding of nature (science).
+* Does **quantifiably** more good than harm to all of humanity. (Must be provable
+through empirical evidence)
+
 ## Structure
+* It's self describes everything from societal norms to government operation.
+[The manifesto](manifesto.md) 
 
-[The guiding principles](guiding_principles.md) show basic rules and guidelines
-which the manifesto adheres to.
-
-[The manifesto](manifesto.md) it's self describes everything from societal norms
-to government operation.
-
-[The glossary](glossary.md) defines often used words.
+* Defines often used words.
+[The glossary](glossary.md) 
 
 ## Inspiration
 
