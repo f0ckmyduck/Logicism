@@ -164,7 +164,7 @@ communication.
 
 ### Respectful discussion
 
-* Mutual respect is an important aspect of communication. Without respect discourse
+* Mutual respect is an important aspect of communication. Without, respect discourse
 is in most cases not even attempted.
 
 Therefore, any student should have the mental maturity to respect another even
@@ -174,13 +174,6 @@ __Possible Solution:__
 
 This could be achieved within a mandatory class in which the teacher acts as an
 extremist and students could engage in a discussion about the topic at hand.
-
-#### Mistakes
-
-* Mistakes are one of the most shunned aspects of our current society.
-
-Mean spirited critic should have no place in a fact based discussion because it
-devalues the other side.
 
 ## Problem-Solving
 
@@ -229,13 +222,14 @@ about getting by.
 
 # Organized religion & Belief
 
-## Belief
-
 * Religions fabricate a non-factual worldview in people.
 
 This worldview can easily spread like a virus because the barrier of entry
-is so low. One does not have to understand unbiased proof but just belief what
-someone claimed.
+is so low. A religion can be used to give easy answers to complex questions.
+
+People learn from preachers not to question the authority instead of verifying
+claims for them self's. The enforcement of this concept is also propagated down to
+other members at lower levels of the hierarchy through peer pressure.
 
 __Possible Solution:__
 
@@ -251,45 +245,6 @@ building infrastructure focusing on treatment and research.
 
 Another thing of importance is the communication of sciences which shapes the opinions
 of normal people, which needs to be improved greatly.
-
-## Institutionalized religions & Cults
-
-* Organized religions use their belief system combined with psychological
-phenomena to their advantage.
-
-__Possible Solution:__
-
-The removal of the belief system will probably mark the end of any
-institutionalized belief.
-
-### Keeping believers in
-
-* All of these institutions use a vicious cycle with one or more components
-to keep their members in check. Some of these elements are listed here.
-
-#### Belief vs. Proof
-
-* The people learn from preachers (or other higher ups) not to question the
-authority and to "believe" instead of verifying claims and testing "truths"
-for them self's. The enforcement of this concept is also propagated down to
-other members at lower levels of the hierarchy through peer pressure.
-
-#### Simplicity
-
-* These types of religions give a false sense of hope through giving simple
-answers to complex questions.
-
-A good example is the life after death.
-
-#### Different thinking
-
-* Thinking differently is considered by most members of these groups to be a bad trait.
-Removing and shunning a different way of thinking relative to their religion
-improves obedience but obstructs creative thinking.
-
-#### Unprovability
-
-* A lot of beliefs are also simply unprovable with the technology of our time.
 
 **Glossary**:
 Religion:
