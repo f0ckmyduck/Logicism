@@ -22,13 +22,10 @@ A Statement should only be added if the following is also valid:
 * Does **quantifiably** more good than harm to all of humanity. (Must be provable
 through empirical evidence)
 
-## Structure
-* All statements are written in the following file. These statements describe
-everything from societal norms to government operation.
-[The manifesto](manifesto.md) 
+## The manifesto
 
-* The glossary defines words/phrases and their meanings to clear up misunderstanding.
-[The glossary](glossary.md) 
+So after reading the above are you ready to dive in?
+[The manifesto](manifesto.md)
 
 ## Inspiration
 

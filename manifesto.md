@@ -2,6 +2,45 @@
 title: The Manifesto
 ---
 
+# Explanation
+
+## Statement
+
+A statement is usually a paragraph. It is usually in the following format.
+
+```
+# <Titel>
+
+* <Claim>
+
+<Impact>
+
+__Possible solution__:
+<Solution1>
+
+__Possible solution__:
+<Solution2>
+
+*Glossary*:
+<Therm>: <Definition>
+```
+## Document specific markers
+
+__Expansion needed__:
+It marks the statement that came before it as incomplete. Either the
+explanation, reasoning or assumptions are not finished yet.
+
+__Possible solution__:
+Could be one of the solutions to the problems above. It has to at least
+fix one of the problems.
+
+## Mathematical operators
+
+All mathematical operators are taken from the C language.
+
+
+
+
 # Education
 
 * Most are taught in a way where knowledge is something that doesn't have to be understood
@@ -95,24 +134,20 @@ view (Like how one is manipulated into voting).
 __Possible Solution:__
 
 To solve this a manner of communication should be taught which encourages
-discussion techniques which have the end goal of this class on communication
-is that every member should have the mental maturity and communication techniques
-to come to either a compromise, consensus or best case a common conclusion in a
-fact based discussion.
+mutual respect and listening.
 
 ### Open-mindedness
 
 * Open-mindedness is currently no priority in our education system.
 
-But the youth needs to be taught to be open-minded to effectively communicate
-with each other. The receptiveness to new ideas is especially important when considering
-creative work (There it is often called inspiration).
+Being close minded makes no sense because the person thinking about a solution to a
+problem misses out on specific concepts which could be used to fabricate new ideas.
+(Because our brain merges existing concepts (inspiration) to something new we call ideas)
 
 __Possible Solution:__
 
-This trait should also be taught in a mandatory class because inspiration is needed
-when creating new ideas (given how our brain merges concepts to something new
-we call ideas).
+Open-mindedness should be a part of every school culture in every way. With the word
+open-mindedness in this context is only meant the listening to new ideas, NOT ACCEPTANCE!
 
 ### Fact based discourse
 
@@ -255,6 +290,13 @@ improves obedience but obstructs creative thinking.
 #### Unprovability
 
 * A lot of beliefs are also simply unprovable with the technology of our time.
+
+**Glossary**:
+Religion:
+* The service and worship of God or the supernatural
+* A personal set or institutionalized system of religious attitudes,
+beliefs, and practices
+
 
 
 
