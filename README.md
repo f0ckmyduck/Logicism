@@ -4,6 +4,7 @@
 
 The goal of this manifesto is to create a form of society which forms people living
 in it into freethinking and rational human beings who work together. Sapere aude!
+
 The primary purpose of this state and mindset is the progress of the human race.
 
 The idea is that if you have a basic understanding of most scientific fields
@@ -22,16 +23,17 @@ A Statement should only be added if the following is also valid:
 through empirical evidence)
 
 ## Structure
-* It's self describes everything from societal norms to government operation.
+* All statements are written in the following file. These statements describe
+everything from societal norms to government operation.
 [The manifesto](manifesto.md) 
 
-* Defines often used words.
+* The glossary defines words/phrases and their meanings to clear up misunderstanding.
 [The glossary](glossary.md) 
 
 ## Inspiration
 
 This manifesto is a congregation of many ideas.
-Some come from the following movements/concepts:
+Some were inspired by the following movements/concepts:
 
 * Critical Theory
 * Communism
