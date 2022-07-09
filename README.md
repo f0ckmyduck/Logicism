@@ -25,6 +25,8 @@ through empirical evidence)
 ## The manifesto
 
 So after reading the above are you ready to dive in?
+
+
 [The manifesto](manifesto.md)
 
 ## Inspiration
