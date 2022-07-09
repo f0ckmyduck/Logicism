@@ -27,7 +27,7 @@ through empirical evidence)
 So after reading the above are you ready to dive in?
 
 
-[The manifesto](manifesto.md)
+[The manifesto](https://f0ckmyduck.github.io/Logicism/manifesto.html)
 
 ## Inspiration
 
